@@ -7,38 +7,33 @@
 
 In this CTF, I participated with my team [Team_7even](https://github.com/team0se7en)
 
-I solved all the challenges bellow except for `Nutshell1` and `magic`.
+I solved all the challenges bellow except for `Nutshell1`, `Pickle Games 1` and `pyjail`.
 
 ## Challenges
 
 ###  - Reverse Engineering:
  - [6pack](6pack/) "DONE"
  - [baby asm](baby_asm/) "DONE"
- - [magic](magic/) "doing"
+ - [magic](magic/) "DONE"
 
 ###  - Jail:
- - [less_jail](less_jail/) "doing"
- - [Pickle Games 1](pickle_games_1/) "doing"
- - [Pickle Games 2](pickle_games_2/) "doing"
- - [pyjail](pyjail/) "doing"
+ - [Pickle Games 1](pickle_games_1/) "DONE"
+ - [Pickle Games 2](pickle_games_2/) "DONE"
+ - [pyjail](pyjail/) "DONE"
 
 ###  - Web:
- - [nextGen1](nextGen1/) "doing"
  - [Whois](Whois/) "doing"
  - [Whois fixed](Whois_fixed/) "doing"
 
 ###  - Linux:
- - [Nutshell 1](Nutshell_1/) "doing"
- - [Nutshell 2](Nutshell_2/) "doing"
+ - [Nutshell 1](Nutshell_1/) "DONE"
+ - [Nutshell 2](Nutshell_2/) "DONE"
 
 ###  - Misc:
- - [Image Data](Image_Data/) "doing"
+ - [Image Data](Image_Data/) "DONE"
  - [Alien](Alien/) "DONE"
-
-###  - Crypto:
- - [neighbors](neighbors/) "doing"
 
 ###  - Programming:
  - [RPS](RPS/) "doing"
- - [from zero to hero](from_zero_to_hero/) "doing"
- - [chess.INI](chess.INI/) "doing"
+ - [from zero to hero](from_zero_to_hero/) "DONE"
+ - [chess.INI](chess.INI/) "DONE"
