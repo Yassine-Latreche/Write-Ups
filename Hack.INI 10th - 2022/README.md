@@ -7,33 +7,33 @@
 
 In this CTF, I participated with my team [Team_7even](https://github.com/team0se7en)
 
-I solved all the challenges bellow except for `Nutshell1`, `Pickle Games 1` and `pyjail`.
+I solved all the challenges bellow except for `Nutshell1`, `Pickle Games 1`,  `pyjail` and `Whois-fixed`.
 
 ## Challenges
 
 ###  - Reverse Engineering:
- - [6pack](6pack/) "DONE"
- - [baby asm](baby_asm/) "DONE"
- - [magic](magic/) "DONE"
+ - [6pack](6pack/) 
+ - [baby asm](baby_asm/) 
+ - [magic](magic/) 
 
 ###  - Jail:
- - [Pickle Games 1](pickle_games_1/) "DONE"
- - [Pickle Games 2](pickle_games_2/) "DONE"
- - [pyjail](pyjail/) "DONE"
+ - [Pickle Games 1](pickle_games_1/) 
+ - [Pickle Games 2](pickle_games_2/) 
+ - [pyjail](pyjail/) 
 
 ###  - Web:
- - [Whois](Whois/) "doing"
- - [Whois fixed](Whois_fixed/) "doing"
+ - [Whois](Whois/) 
+ - [Whois fixed](Whois_fixed/) 
 
 ###  - Linux:
- - [Nutshell 1](Nutshell_1/) "DONE"
- - [Nutshell 2](Nutshell_2/) "DONE"
+ - [Nutshell 1](Nutshell_1/) 
+ - [Nutshell 2](Nutshell_2/) 
 
 ###  - Misc:
- - [Image Data](Image_Data/) "DONE"
- - [Alien](Alien/) "DONE"
+ - [Image Data](Image_Data/) 
+ - [Alien](Alien/) 
 
 ###  - Programming:
- - [RPS](RPS/) "doing"
- - [from zero to hero](from_zero_to_hero/) "DONE"
- - [chess.INI](chess.INI/) "DONE"
+ - [RPS](RPS/) 
+ - [from zero to hero](from_zero_to_hero/) 
+ - [chess.INI](chess.INI/) 
